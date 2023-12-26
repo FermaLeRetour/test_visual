@@ -1,0 +1,14 @@
+C:\Users\quent\source\repos\test_visual\test_visual\bin\Debug\net6.0\test_visual.exe
+C:\Users\quent\source\repos\test_visual\test_visual\bin\Debug\net6.0\test_visual.deps.json
+C:\Users\quent\source\repos\test_visual\test_visual\bin\Debug\net6.0\test_visual.runtimeconfig.json
+C:\Users\quent\source\repos\test_visual\test_visual\bin\Debug\net6.0\test_visual.dll
+C:\Users\quent\source\repos\test_visual\test_visual\bin\Debug\net6.0\test_visual.pdb
+C:\Users\quent\source\repos\test_visual\test_visual\obj\Debug\net6.0\test_visual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quent\source\repos\test_visual\test_visual\obj\Debug\net6.0\test_visual.AssemblyInfoInputs.cache
+C:\Users\quent\source\repos\test_visual\test_visual\obj\Debug\net6.0\test_visual.AssemblyInfo.cs
+C:\Users\quent\source\repos\test_visual\test_visual\obj\Debug\net6.0\test_visual.csproj.CoreCompileInputs.cache
+C:\Users\quent\source\repos\test_visual\test_visual\obj\Debug\net6.0\test_visual.dll
+C:\Users\quent\source\repos\test_visual\test_visual\obj\Debug\net6.0\refint\test_visual.dll
+C:\Users\quent\source\repos\test_visual\test_visual\obj\Debug\net6.0\test_visual.pdb
+C:\Users\quent\source\repos\test_visual\test_visual\obj\Debug\net6.0\test_visual.genruntimeconfig.cache
+C:\Users\quent\source\repos\test_visual\test_visual\obj\Debug\net6.0\ref\test_visual.dll
